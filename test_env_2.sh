@@ -1,0 +1,1 @@
+source env_2/bin/activate&&pip install pytest&&pytest /Users/ommarhannan/Documents/GitHub/learning/test_env_2.py
